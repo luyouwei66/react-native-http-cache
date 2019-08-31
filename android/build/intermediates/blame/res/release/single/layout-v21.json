@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9bb3e09f48786c10dd53e4772085c9ea/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9bb3e09f48786c10dd53e4772085c9ea/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9bb3e09f48786c10dd53e4772085c9ea/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9bb3e09f48786c10dd53e4772085c9ea/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

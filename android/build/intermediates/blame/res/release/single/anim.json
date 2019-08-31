@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ddf40459df7ec819d7363479f675a2aa/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ddf40459df7ec819d7363479f675a2aa/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ddf40459df7ec819d7363479f675a2aa/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ddf40459df7ec819d7363479f675a2aa/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/f77ac2df1a9c31c99c9ebf76de3ae809/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/f77ac2df1a9c31c99c9ebf76de3ae809/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ddf40459df7ec819d7363479f675a2aa/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ddf40459df7ec819d7363479f675a2aa/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/f77ac2df1a9c31c99c9ebf76de3ae809/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ddf40459df7ec819d7363479f675a2aa/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/f77ac2df1a9c31c99c9ebf76de3ae809/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ddf40459df7ec819d7363479f675a2aa/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ddf40459df7ec819d7363479f675a2aa/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ddf40459df7ec819d7363479f675a2aa/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ddf40459df7ec819d7363479f675a2aa/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/f77ac2df1a9c31c99c9ebf76de3ae809/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ddf40459df7ec819d7363479f675a2aa/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Volumes/Mac/host/app/weijiupload/Apps/node_modules/react-native-http-cache/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/luyouwei/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/f77ac2df1a9c31c99c9ebf76de3ae809/res/anim/catalyst_slide_up.xml"
+    }
+]
