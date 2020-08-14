@@ -216,6 +216,7 @@
 					"$(inherited)",
 					"$(SRCROOT)/../../react-native/React/**",
 					"$(SRCROOT)/../../react-native/Libraries/**",
+					"${SRCROOT}/../../../ios/Pods/Headers/**"
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -230,6 +231,7 @@
 					"$(inherited)",
 					"$(SRCROOT)/../../react-native/React/**",
 					"$(SRCROOT)/../../react-native/Libraries/**",
+					"${SRCROOT}/../../../ios/Pods/Headers/**"
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
